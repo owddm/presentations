@@ -11,8 +11,11 @@ Presentation Suggestions, Wishes and Preparations
   * Victor Q&A session for beginners (15 mins)
 
 ## Preparation
-* Date: 28 May 2016 (tbc) - Martin
-* Venue: Aiming, Osaka (tbc) - Martin
+* Date: 28 May 2016 - Martin
+* Time: 18:00 (tbc)
+* Venue: Cybozu, Osaka
+  * Details: 
+  * Map:
 
 ## Suggestions
 
